@@ -1,0 +1,94 @@
+{
+  "reviews": [
+    {
+      "id": "ef970757-fe42-416f-931d-722451f1f59c",
+      "totalRating": 4.333333333333333,
+      "breweryReview": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "rating": 5,
+          "description": "Very Good"
+        },
+        {
+          "id": 2,
+          "name": "Mark Doe",
+          "rating": 4,
+          "description": "Good"
+        },
+        {
+          "id": 3,
+          "rating": 4,
+          "name": "Vibhuti Narayan Patel",
+          "description": "great"
+        }
+      ]
+    },
+    {
+      "id": "5128df48-79fc-4f0f-8b52-d06be54d0cec",
+      "totalRating": 4,
+      "breweryReview": [
+        {
+          "id": 1,
+          "rating": 4,
+          "name": "Vibhuti Narayan Patel",
+          "description": "Nice Service"
+        },
+        {
+          "id": 2,
+          "rating": 2,
+          "name": "Vibhuti Narayan Patel",
+          "description": "Great"
+        },
+        {
+          "id": 3,
+          "rating": 5,
+          "name": "Vibhuti Narayan Patel",
+          "description": "Great Taste"
+        },
+        {
+          "id": 4,
+          "rating": 3.5,
+          "name": "Vibhuti Narayan Patel",
+          "description": "Loved It"
+        },
+        {
+          "id": 5,
+          "rating": 4.5,
+          "name": "Vibhuti Narayan Patel",
+          "description": "Loved It"
+        },
+        {
+          "id": 6,
+          "rating": 5,
+          "name": "Vibhuti Narayan Patel",
+          "description": "Great Food"
+        }
+      ]
+    },
+    {
+      "id": "9c5a66c8-cc13-416f-a5d9-0a769c87d318",
+      "totalRating": 3.6666666666666665,
+      "breweryReview": [
+        {
+          "id": 1,
+          "rating": 2,
+          "name": "Vibhuti Narayan Patel",
+          "description": "Okish"
+        },
+        {
+          "id": 2,
+          "rating": 4,
+          "name": "Vibhuti Narayan Patel",
+          "description": "Best"
+        },
+        {
+          "id": 3,
+          "rating": 5,
+          "name": "Vibhuti Narayan Patel",
+          "description": "Best"
+        }
+      ]
+    }
+  ]
+}
